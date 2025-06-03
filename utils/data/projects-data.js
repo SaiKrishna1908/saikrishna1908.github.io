@@ -24,9 +24,9 @@ export const projectsData = [
     },
     {
         "id": 3,
-        "name": "Proll",
-        "description": "Proll is a cross-platform desktop application built using Electron.js. It is a digital employee timesheet application designed to track employee work hours, attendance, and calculate pay including overtime.",
-        "tools": ["Electron.js", "JavaScript", "HTML", "CSS", "Node.js", "Sqlite"],
+        "name": "DevDrils",
+        "description": "DevDrills is a full-stack web app built with Spring Boot (WebFlux), React.js, and AWS Cognito for secure user authentication. It leverages the Gemini LLM API to dynamically generate system design and algorithm challenges, with a scalable, containerized architecture and an interactive UI for real-time practice and feedback.",
+        "tools": ["Spring Boot", "Typescript", "HTML", "CSS", "React.js", "AWS Cognito", "Postgres", "Gemini LLM"],
         "role": "Full Stack Developer",
         "code": "https://github.com/SaiKrishna1908/proll",
         "demo": ""
