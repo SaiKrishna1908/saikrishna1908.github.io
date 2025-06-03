@@ -118,13 +118,13 @@ function HeroSection() {
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">Angular 17</span>
+                <span className="text-amber-300">React JS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">RxJs</span>
+                <span className="text-amber-300">NextJS</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Angular Reactive Forms</span>
+                <span className="text-amber-300">Redux</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Cypress</span>
+                <span className="text-amber-300">Jest</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Spring Boot</span>
                 <span className="text-gray-400">{"', '"}</span>
